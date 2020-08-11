@@ -63,6 +63,8 @@ int32_t main() {
   printSum(n);
 } 
 */
+
+/* https://www.geeksforgeeks.org/print-all-possible-consecutive-numbers-with-sum-n/ */
 #include <bits/stdc++.h>
 #define int long long
 #define endl '\n'
